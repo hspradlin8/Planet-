@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/planets/obj/Debug/netcoreapp3.0/planets.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/planets/obj/Debug/netcoreapp3.0/planets.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/planets/obj/Debug/netcoreapp3.0/planets.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/planets/bin/Debug/netcoreapp3.0/planets
+/Users/Heidi/workspace/CSharpDemos/planets/bin/Debug/netcoreapp3.0/planets.deps.json
+/Users/Heidi/workspace/CSharpDemos/planets/bin/Debug/netcoreapp3.0/planets.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/planets/bin/Debug/netcoreapp3.0/planets.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/planets/bin/Debug/netcoreapp3.0/planets.dll
+/Users/Heidi/workspace/CSharpDemos/planets/bin/Debug/netcoreapp3.0/planets.pdb
+/Users/Heidi/workspace/CSharpDemos/planets/obj/Debug/netcoreapp3.0/planets.dll
+/Users/Heidi/workspace/CSharpDemos/planets/obj/Debug/netcoreapp3.0/planets.pdb
